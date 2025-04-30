@@ -1,0 +1,6 @@
+&DOS
+  prefix = 'gan',
+  outdir = './tmp/',
+  fildos = 'gan.dos.dat'
+/
+

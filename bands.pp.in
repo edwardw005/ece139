@@ -1,6 +1,0 @@
-&BANDS
-  prefix = 'gan',
-  outdir = './tmp/',
-  filband = 'gan.bands.dat'
-/
-
