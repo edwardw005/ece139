@@ -1,0 +1,8 @@
+&DOS
+  prefix = 'GaN',
+  outdir = './',
+  fildos = 'GaN.dos.dat',
+  Emin = -10.0,
+  Emax = 25.0,
+/
+

@@ -1,0 +1,7 @@
+&BANDS
+  prefix = 'GaN',
+  outdir = './',
+  filband = 'GaN.bands.dat',
+  lsym = .true.
+/
+
